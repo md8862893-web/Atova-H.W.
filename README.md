@@ -1,0 +1,1 @@
+Repository for course assignments and real-world web development practice from the Web Development for Freelancing Level 3 course at Atova Technology, focusing on professional development skills and project-based learning.
